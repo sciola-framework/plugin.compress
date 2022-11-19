@@ -1,0 +1,2 @@
+# plugin.compress
+Compress file
